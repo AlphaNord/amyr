@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://alphanord.github.io/amyr/sitemap.xml
