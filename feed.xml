@@ -3,14 +3,14 @@
     <title>Afkary</title>
     <link href="https://alphanord.github.io/amyr/feed.xml" rel="self" />
     <link href="https://alphanord.github.io/amyr" />
-    <updated>2023-09-26T13:31:00+02:00</updated>
+    <updated>2023-09-28T19:38:48+02:00</updated>
     <author>
         <name>Amyr Afkary (Pseudo)</name>
     </author>
     <id>https://alphanord.github.io/amyr</id>
 
     <entry>
-        <title>Ig Posts</title>
+        <title>Instagram Posts</title>
         <author>
             <name>Amyr Afkary (Pseudo)</name>
         </author>
@@ -19,7 +19,7 @@
         <media:content url="https://alphanord.github.io/amyr/media/posts/4/StudioColored.jpg" medium="image" />
             <category term="Posts"/>
 
-        <updated>2023-09-26T13:31:00+02:00</updated>
+        <updated>2023-09-28T19:38:35+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -84,14 +84,9 @@
         <media:content url="https://alphanord.github.io/amyr/media/posts/3/Psychiatry.jpg" medium="image" />
             <category term="Videos"/>
 
-        <updated>2023-09-23T23:25:29+02:00</updated>
+        <updated>2023-09-28T19:38:48+02:00</updated>
             <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://alphanord.github.io/amyr/media/posts/3/Psychiatry.jpg" class="type:primaryImage" alt="" /></p>
-                <div class="post__iframe"><iframe loading="lazy" width="640" height="360" frameborder="0" src="https://mega.nz/embed/nhIHRbiT#io-k8RQfuFWaNLoIIo6DgQRpjmOhpJ7lzPizlb2Ghr8" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
         <title>Ayah 285</title>
