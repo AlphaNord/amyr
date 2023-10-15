@@ -10,6 +10,32 @@
     },
     "items": [
         {
+            "id": "https://alphanord.github.io/amyr/outils/",
+            "url": "https://alphanord.github.io/amyr/outils/",
+            "title": "Outils",
+            "author": {
+                "name": "Amyr Afkary (Pseudo)"
+            },
+            "tags": [
+                   "Articles"
+            ],
+            "date_published": "2023-10-14T13:08:38+02:00",
+            "date_modified": "2023-10-14T13:08:38+02:00"
+        },
+        {
+            "id": "https://alphanord.github.io/amyr/orientation/",
+            "url": "https://alphanord.github.io/amyr/orientation/",
+            "title": "Orientation",
+            "author": {
+                "name": "Amyr Afkary (Pseudo)"
+            },
+            "tags": [
+                   "Articles"
+            ],
+            "date_published": "2023-10-14T13:07:54+02:00",
+            "date_modified": "2023-10-14T13:07:54+02:00"
+        },
+        {
             "id": "https://alphanord.github.io/amyr/test-3/",
             "url": "https://alphanord.github.io/amyr/test-3/",
             "title": "Video",
@@ -37,9 +63,11 @@
             "date_modified": "2023-10-09T22:31:03+02:00"
         },
         {
-            "id": "https://alphanord.github.io/amyr/test/",
-            "url": "https://alphanord.github.io/amyr/test/",
-            "title": "Art 1",
+            "id": "https://alphanord.github.io/amyr/ressources/",
+            "url": "https://alphanord.github.io/amyr/ressources/",
+            "title": "Apprendre",
+            "summary": "Section Collège : (Indisponible) Section Lycée : (Indisponible) Mathématiques ¤ MethodeMath (Cours&hellip;",
+            "content_html": "<h3>Section Collège : (Indisponible)</h3>\n<h3>Section Lycée : (Indisponible)</h3>\n<h4>Mathématiques </h4>\n<p>¤ <a href=\"https://www.methodemaths.fr/\" target=\"_blank\" rel=\"noopener\">MethodeMath</a> (Cours niv. Lycée)</p>\n<p>   <span style=\"text-decoration: underline;\">Chaines Ytb</span> :</p>\n<p>     ¤ <a href=\"https://www.youtube.com/channel/UC8SRYHgGMqAYZehYdznaqvQ\" target=\"_blank\" rel=\"noopener\">Hedacademy</a></p>\n<h4><strong>Physique-Chimie</strong> </h4>\n<p>¤ MethodePhysique (Cours niv. Lycée)</p>\n<p>   <span style=\"text-decoration: underline;\">Chaines Ytb</span> :</p>\n<p>     ¤ <a href=\"https://www.youtube.com/channel/UCdH4RLzP9UIxV299clvj1rg\" target=\"_blank\" rel=\"noopener\">Mathrix</a></p>\n<p>     ¤ <a href=\"https://www.youtube.com/channel/UCMoLo19aZNQyTrnNM-PDTng\" target=\"_blank\" rel=\"noopener\">Physique Chimie</a></p>\n<h4>SVT</h4>\n<p>¤ <a href=\"https://www.svt-imbert.fr/\" target=\"_blank\" rel=\"noopener\">SVT Imbert</a> (Cours niv. Lycée)</p>\n<p>   <span style=\"text-decoration: underline;\">Chaines Ytb</span> :</p>\n<p>     ¤ <a href=\"https://www.youtube.com/channel/UCdH4RLzP9UIxV299clvj1rg\" target=\"_blank\" rel=\"noopener\">Mathrix</a></p>\n<h4><strong>SES</strong></h4>\n<p>¤ <a href=\"https://www.scienceseconomiquesetsociales.fr/\" target=\"_blank\" rel=\"noopener\">Sciences_Economiques_Sociales</a> (Cours niv. Lycée)</p>\n<h4>SNT/NSI</h4>\n<p>¤ <a href=\"https://kxs.fr/cours/\" target=\"_blank\" rel=\"noopener noreferrer\">KXS </a>(Cours niv. Lycée)</p>\n<h4>S.I</h4>\n<p>¤ <a href=\"https://coursenligne1s6.fr/SI\" target=\"_blank\" rel=\"noopener\">S.I</a> (Cours niv. Lycée)</p>\n<h4>HIST/EMC/HGGSP/GEO</h4>\n<p>¤ <a href=\"https://www.reyser.fr/\" target=\"_blank\" rel=\"noopener\">Prof Reyser</a> (Cours niv. Lycée) (Bug parfois mais il marche, privilégiez l'ordinateur) </p>\n<h4>Langues</h4>\n<p>Pour l'apprentissage de langues, voir \"Apprendre une langue\" (actuellement indisponible)</p>\n<h4>BAC FR / Philo</h4>\n<p>¤ Voir Dossier au Cloud (actuellement indisponible)</p>\n<h3>Section Université / CPGE : (Indisponible)</h3>",
             "author": {
                 "name": "Amyr Afkary (Pseudo)"
             },
@@ -47,7 +75,7 @@
                    "Articles"
             ],
             "date_published": "2023-09-23T15:27:11+02:00",
-            "date_modified": "2023-10-09T22:30:50+02:00"
+            "date_modified": "2023-10-15T20:32:21+02:00"
         }
     ]
 }

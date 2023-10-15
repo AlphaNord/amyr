@@ -3,12 +3,38 @@
     <title>Afkary</title>
     <link href="https://alphanord.github.io/amyr/feed.xml" rel="self" />
     <link href="https://alphanord.github.io/amyr" />
-    <updated>2023-10-09T22:31:03+02:00</updated>
+    <updated>2023-10-15T20:32:21+02:00</updated>
     <author>
         <name>Amyr Afkary (Pseudo)</name>
     </author>
     <id>https://alphanord.github.io/amyr</id>
 
+    <entry>
+        <title>Outils</title>
+        <author>
+            <name>Amyr Afkary (Pseudo)</name>
+        </author>
+        <link href="https://alphanord.github.io/amyr/outils/"/>
+        <id>https://alphanord.github.io/amyr/outils/</id>
+            <category term="Articles"/>
+
+        <updated>2023-10-14T13:08:38+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Orientation</title>
+        <author>
+            <name>Amyr Afkary (Pseudo)</name>
+        </author>
+        <link href="https://alphanord.github.io/amyr/orientation/"/>
+        <id>https://alphanord.github.io/amyr/orientation/</id>
+            <category term="Articles"/>
+
+        <updated>2023-10-14T13:07:54+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Video</title>
         <author>
@@ -37,16 +63,51 @@
         <content></content>
     </entry>
     <entry>
-        <title>Art 1</title>
+        <title>Apprendre</title>
         <author>
             <name>Amyr Afkary (Pseudo)</name>
         </author>
-        <link href="https://alphanord.github.io/amyr/test/"/>
-        <id>https://alphanord.github.io/amyr/test/</id>
+        <link href="https://alphanord.github.io/amyr/ressources/"/>
+        <id>https://alphanord.github.io/amyr/ressources/</id>
             <category term="Articles"/>
 
-        <updated>2023-10-09T22:30:50+02:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2023-10-15T20:32:21+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Section Collège : (Indisponible) Section Lycée : (Indisponible) Mathématiques ¤ MethodeMath (Cours&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3>Section Collège : (Indisponible)</h3>
+<h3>Section Lycée : (Indisponible)</h3>
+<h4>Mathématiques </h4>
+<p>¤ <a href="https://www.methodemaths.fr/" target="_blank" rel="noopener">MethodeMath</a> (Cours niv. Lycée)</p>
+<p>   <span style="text-decoration: underline;">Chaines Ytb</span> :</p>
+<p>     ¤ <a href="https://www.youtube.com/channel/UC8SRYHgGMqAYZehYdznaqvQ" target="_blank" rel="noopener">Hedacademy</a></p>
+<h4><strong>Physique-Chimie</strong> </h4>
+<p>¤ MethodePhysique (Cours niv. Lycée)</p>
+<p>   <span style="text-decoration: underline;">Chaines Ytb</span> :</p>
+<p>     ¤ <a href="https://www.youtube.com/channel/UCdH4RLzP9UIxV299clvj1rg" target="_blank" rel="noopener">Mathrix</a></p>
+<p>     ¤ <a href="https://www.youtube.com/channel/UCMoLo19aZNQyTrnNM-PDTng" target="_blank" rel="noopener">Physique Chimie</a></p>
+<h4>SVT</h4>
+<p>¤ <a href="https://www.svt-imbert.fr/" target="_blank" rel="noopener">SVT Imbert</a> (Cours niv. Lycée)</p>
+<p>   <span style="text-decoration: underline;">Chaines Ytb</span> :</p>
+<p>     ¤ <a href="https://www.youtube.com/channel/UCdH4RLzP9UIxV299clvj1rg" target="_blank" rel="noopener">Mathrix</a></p>
+<h4><strong>SES</strong></h4>
+<p>¤ <a href="https://www.scienceseconomiquesetsociales.fr/" target="_blank" rel="noopener">Sciences_Economiques_Sociales</a> (Cours niv. Lycée)</p>
+<h4>SNT/NSI</h4>
+<p>¤ <a href="https://kxs.fr/cours/" target="_blank" rel="noopener noreferrer">KXS </a>(Cours niv. Lycée)</p>
+<h4>S.I</h4>
+<p>¤ <a href="https://coursenligne1s6.fr/SI" target="_blank" rel="noopener">S.I</a> (Cours niv. Lycée)</p>
+<h4>HIST/EMC/HGGSP/GEO</h4>
+<p>¤ <a href="https://www.reyser.fr/" target="_blank" rel="noopener">Prof Reyser</a> (Cours niv. Lycée) (Bug parfois mais il marche, privilégiez l'ordinateur) </p>
+<h4>Langues</h4>
+<p>Pour l'apprentissage de langues, voir "Apprendre une langue" (actuellement indisponible)</p>
+<h4>BAC FR / Philo</h4>
+<p>¤ Voir Dossier au Cloud (actuellement indisponible)</p>
+<h3>Section Université / CPGE : (Indisponible)</h3>
+            ]]>
+        </content>
     </entry>
 </feed>
