@@ -3,75 +3,22 @@
     <title>Afkary</title>
     <link href="https://alphanord.github.io/amyr/feed.xml" rel="self" />
     <link href="https://alphanord.github.io/amyr" />
-    <updated>2023-10-15T20:32:21+02:00</updated>
+    <updated>2023-10-15T20:43:29+02:00</updated>
     <author>
         <name>Amyr Afkary (Pseudo)</name>
     </author>
     <id>https://alphanord.github.io/amyr</id>
 
     <entry>
-        <title>Outils</title>
-        <author>
-            <name>Amyr Afkary (Pseudo)</name>
-        </author>
-        <link href="https://alphanord.github.io/amyr/outils/"/>
-        <id>https://alphanord.github.io/amyr/outils/</id>
-            <category term="Articles"/>
-
-        <updated>2023-10-14T13:08:38+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Orientation</title>
-        <author>
-            <name>Amyr Afkary (Pseudo)</name>
-        </author>
-        <link href="https://alphanord.github.io/amyr/orientation/"/>
-        <id>https://alphanord.github.io/amyr/orientation/</id>
-            <category term="Articles"/>
-
-        <updated>2023-10-14T13:07:54+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Video</title>
-        <author>
-            <name>Amyr Afkary (Pseudo)</name>
-        </author>
-        <link href="https://alphanord.github.io/amyr/test-3/"/>
-        <id>https://alphanord.github.io/amyr/test-3/</id>
-        <media:content url="https://alphanord.github.io/amyr/media/posts/3/Psychiatry.jpg" medium="image" />
-            <category term="Videos"/>
-
-        <updated>2023-10-09T22:30:39+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Audio</title>
-        <author>
-            <name>Amyr Afkary (Pseudo)</name>
-        </author>
-        <link href="https://alphanord.github.io/amyr/test-2/"/>
-        <id>https://alphanord.github.io/amyr/test-2/</id>
-            <category term="Podcasts"/>
-
-        <updated>2023-10-09T22:31:03+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
         <title>Apprendre</title>
         <author>
             <name>Amyr Afkary (Pseudo)</name>
         </author>
-        <link href="https://alphanord.github.io/amyr/ressources/"/>
-        <id>https://alphanord.github.io/amyr/ressources/</id>
+        <link href="https://alphanord.github.io/amyr/apprendre/"/>
+        <id>https://alphanord.github.io/amyr/apprendre/</id>
             <category term="Articles"/>
 
-        <updated>2023-10-15T20:32:21+02:00</updated>
+        <updated>2023-10-15T20:43:29+02:00</updated>
             <summary>
                 <![CDATA[
                     Section Collège : (Indisponible) Section Lycée : (Indisponible) Mathématiques ¤ MethodeMath (Cours&hellip;
