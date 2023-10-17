@@ -3,12 +3,55 @@
     <title>Afkary</title>
     <link href="https://alphanord.github.io/amyr/feed.xml" rel="self" />
     <link href="https://alphanord.github.io/amyr" />
-    <updated>2023-10-15T20:51:29+02:00</updated>
+    <updated>2023-10-17T13:40:39+02:00</updated>
     <author>
         <name>Amyr Afkary (Pseudo)</name>
     </author>
     <id>https://alphanord.github.io/amyr</id>
 
+    <entry>
+        <title>Outils</title>
+        <author>
+            <name>Amyr Afkary (Pseudo)</name>
+        </author>
+        <link href="https://alphanord.github.io/amyr/outils/"/>
+        <id>https://alphanord.github.io/amyr/outils/</id>
+            <category term="Articles"/>
+
+        <updated>2023-10-17T13:40:39+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Pour Comprendre / Fun ¤ Better explained (Math) ¤ 3blue1brown (Physique /&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Pour Comprendre / Fun</strong></p>
+<p>¤ <a href="https://betterexplained.com" target="_blank" rel="noopener">Better explained</a> (Math)</p>
+<p>¤ <a href="https://www.3blue1brown.com/" target="_blank" rel="noopener">3blue1brown</a> (Physique / Math)</p>
+<p>¤ <a href="https://www.visionlearning.com/" target="_blank" rel="noopener">VisionLearning</a></p>
+<p><strong>     YTB Channels:</strong></p>
+<p>     ¤ <a href="https://www.youtube.com/channel/UC-k90iRFlfZT1UMffhNXONg" target="_blank" rel="noopener">Mathocube</a></p>
+<p>     ¤ <a href="https://www.youtube.com/channel/UCT9Fyqn0izh-wX-wDzKBwAA" target="_blank" rel="noopener">Mathematical Visual Proofs</a></p>
+<p><strong>Solveur de problèmes</strong></p>
+<p>¤ <a href="https://www.wolframalpha.com/">WolframAlpha</a> (Sciences, surtout math : exemple : équations )</p>
+<p>¤ <a href="https://math.microsoft.com/fr" target="_blank" rel="noopener">Math Solver by Microsoft</a> (Math)</p>
+<p>¤ <a href="https://www.dcode.fr/" target="_blank" rel="noopener">Dcode </a>(Outils)</p>
+<p><strong>Autour de la langue</strong></p>
+<p>     <strong>Vérifie la grammaire de tes phrases (Selon la langue)</strong></p>
+<p>     ¤ <a href="https://languagetool.org/fr" target="_blank" rel="noopener">LanguageTool </a>(no login)</p>
+<p>     ¤ <a href="https://www.grammarly.com/" target="_blank" rel="noopener">Grammarly</a> (need to login)</p>
+<p>     ¤ <a href="https://sapling.ai/lang" target="_blank" rel="noopener">Sampling </a>(no login)</p>
+<p>     <strong>Pour l'anglais</strong></p>
+<p>     ¤ <a href="https://hemingwayapp.com/" target="_blank" rel="noopener">Hemingway </a>(Advices for your text)</p>
+<p>     ¤ <a href="https://hemingwayapp.com/" target="_blank" rel="noopener">QuillBot</a></p>
+<p>     ¤ <a href="https://www.wordreference.com" target="_blank" rel="noopener">WordReference</a></p>
+<p>     <strong>Pour toutes les langues</strong></p>
+<p>     ¤ <a href="https://forvo.com" target="_blank" rel="noopener noreferrer">Forvo </a>(Prononciation d'un mot)</p>
+<p>     ¤ <a href="https://dictation.io/" target="_blank" rel="noopener">Dictation </a>(Voix vers texte ; online)</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Apprendre</title>
         <author>
@@ -18,42 +61,55 @@
         <id>https://alphanord.github.io/amyr/apprendre/</id>
             <category term="Articles"/>
 
-        <updated>2023-10-15T20:51:29+02:00</updated>
+        <updated>2023-10-17T13:24:08+02:00</updated>
             <summary>
                 <![CDATA[
-                    Section Collège : (Indisponible) Section Lycée : (Indisponible) Mathématiques ¤ MethodeMath (Cours&hellip;
+                    Section Collège : (Gratuit) Matières Confondues ¤ Afterclasse (Cours) ¤ Alloprof (Cours)&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h3>Section Collège : (Indisponible)</h3>
-<h3>Section Lycée : (Indisponible)</h3>
-<h4>Mathématiques </h4>
+                <h3>Section Collège : (Gratuit)</h3>
+<p><strong>Matières Confondues</strong></p>
+<p>¤ <a href="https://www.afterclasse.fr/" target="_blank" rel="noopener">Afterclasse</a> (Cours)</p>
+<p>¤ <a href="https://www.alloprof.qc.ca/fr/eleves" target="_blank" rel="noopener noreferrer">Alloprof</a> (Cours)</p>
+<p>   <span style="text-decoration: underline;">Chaines Ytb</span> :</p>
+<p>     ¤ <a href="https://www.youtube.com/@LAntiseche/playlists" target="_blank" rel="noopener">L'Antiseche</a> (Cours ; NB : c'est pas de la triche)</p>
+<p>     ¤ <a href="https://www.youtube.com/@lesbonsprofs/playlists" target="_blank" rel="noopener">Les Bons Profs</a></p>
+<h3>Section Lycée : (Gratuit)</h3>
+<p><strong>Mathématiques</strong> </p>
 <p>¤ <a href="https://www.methodemaths.fr/" target="_blank" rel="noopener">MethodeMath</a> (Cours niv. Lycée)</p>
 <p>   <span style="text-decoration: underline;">Chaines Ytb</span> :</p>
 <p>     ¤ <a href="https://www.youtube.com/channel/UC8SRYHgGMqAYZehYdznaqvQ" target="_blank" rel="noopener">Hedacademy</a></p>
-<h4><strong>Physique-Chimie</strong> </h4>
+<p>     ¤ <a href="https://www.youtube.com/@YMONKA/playlists" target="_blank" rel="noopener">Yvan Monka</a></p>
+<p><strong>Physique-Chimie </strong></p>
 <p>¤ <a href="https://www.methodephysique.fr/" target="_blank" rel="noopener">MethodePhysique</a> (Cours niv. Lycée)</p>
 <p>   <span style="text-decoration: underline;">Chaines Ytb</span> :</p>
 <p>     ¤ <a href="https://www.youtube.com/channel/UCdH4RLzP9UIxV299clvj1rg" target="_blank" rel="noopener">Mathrix</a></p>
 <p>     ¤ <a href="https://www.youtube.com/channel/UCMoLo19aZNQyTrnNM-PDTng" target="_blank" rel="noopener">Physique Chimie</a></p>
-<h4>SVT</h4>
+<p><strong>SVT</strong></p>
 <p>¤ <a href="https://www.svt-imbert.fr/" target="_blank" rel="noopener">SVT Imbert</a> (Cours niv. Lycée)</p>
 <p>   <span style="text-decoration: underline;">Chaines Ytb</span> :</p>
 <p>     ¤ <a href="https://www.youtube.com/channel/UCdH4RLzP9UIxV299clvj1rg" target="_blank" rel="noopener">Mathrix</a></p>
-<h4><strong>SES</strong></h4>
+<p><strong>SES</strong></p>
 <p>¤ <a href="https://www.scienceseconomiquesetsociales.fr/" target="_blank" rel="noopener">Sciences_Economiques_Sociales</a> (Cours niv. Lycée)</p>
-<h4>SNT/NSI</h4>
+<p><strong>SNT/NSI</strong></p>
 <p>¤ <a href="https://kxs.fr/cours/" target="_blank" rel="noopener noreferrer">KXS </a>(Cours niv. Lycée)</p>
-<h4>S.I</h4>
+<p><strong>S.I</strong></p>
 <p>¤ <a href="https://coursenligne1s6.fr/SI" target="_blank" rel="noopener">S.I</a> (Cours niv. Lycée)</p>
-<h4>HIST/EMC/HGGSP/GEO</h4>
+<p><strong>HIST/EMC/HGGSP/GEO</strong></p>
 <p>¤ <a href="https://www.reyser.fr/" target="_blank" rel="noopener">Prof Reyser</a> (Cours niv. Lycée) (Bug parfois mais il marche, privilégiez l'ordinateur) </p>
-<h4>Langues</h4>
+<p><strong>Langues</strong></p>
 <p>Pour l'apprentissage de langues, voir "Apprendre une langue" (actuellement indisponible)</p>
-<h4>BAC FR / Philo</h4>
+<p><strong>BAC FR / Philo</strong></p>
 <p>¤ Voir Dossier au Cloud (actuellement indisponible)</p>
-<h3>Section Université / CPGE : (Indisponible)</h3>
+<h3>Section Université / CPGE : (Gratuit)</h3>
+<p>¤ <a href="https://www.elearning-cpge.com/" target="_blank" rel="noopener">Cours Prépa</a> <br>¤ <a href="https://www.prepaplus.tv/" target="_blank" rel="noopener">Math Prépa</a> <br>¤ <a href="http://pt.physique.free.fr/index.php" target="_blank" rel="noopener">Physique-Chimie Prépa</a></p>
+<p>¤ <a href="https://www.studocu.com/fr" target="_blank" rel="noopener">Studocu.com</a> (docs / cours)</p>
+<p>   <span style="text-decoration: underline;">Chaines Ytb</span> :</p>
+<p>     ¤ <a href="https://www.youtube.com/channel/UCcacNh2WN9kTmG1_t05ng7A" target="_blank" rel="noopener">Øljen </a>(Math)</p>
+<p>     ¤ <a href="https://www.youtube.com/channel/UCp5inxa18gLTGPu2WYEUyAA" target="_blank" rel="noopener">Physique-Chimie Prépa </a></p>
+<p> </p>
             ]]>
         </content>
     </entry>
